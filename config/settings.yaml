@@ -1,0 +1,18 @@
+# AquaNexus System Configuration
+# Default settings for ROV Mission Control
+
+vehicle:
+  name: "AquaNexus-PRO"
+  id: "AN-001"
+  max_depth: 300 # meters
+
+telemetry:
+  update_rate: 50 # Hz
+  sensors:
+    pressure: true
+    imu: true
+    sonar: true
+
+control:
+  stabilization_mode: "PID"
+  deadband: 0.05
