@@ -1,18 +1,18 @@
-# Contributing to AquaNexus
+# AquaNexus'a Katkıda Bulunmak
 
-Thank you for your interest in AquaNexus! We welcome contributions to help improve this Mission Control System.
+AquaNexus'a olan ilginiz için teşekkür ederiz! Bu Görev Kontrol Sistemi'ni geliştirmemize yardımcı olacak katkılarınızı memnuniyetle karşılıyoruz.
 
-## How to Contribute
+## Nasıl Katkıda Bulunabilirsiniz?
 
-1.  **Fork the Repository**: Create your own copy of the project.
-2.  **Create a Branch**: Use a descriptive name for your branch (e.g., `feature/sonar-integration`).
-3.  **Make Your Changes**: Ensure your code follows the project's style and includes tests.
-4.  **Submit a Pull Request**: Describe your changes in detail and link to any relevant issues.
+1.  **Depoyu Çatallayın (Fork):** Projenin kendi kopyasını oluşturun.
+2.  **Bir Dal (Branch) Oluşturun:** Dalınız için açıklayıcı bir isim kullanın (örneğin, `feature/sonar-entegrasyonu`).
+3.  **Değişikliklerinizi Yapın:** Kodunuzun projenin stiline uygun olduğundan ve testleri içerdiğinden emin olun.
+4.  **Bir Çekme İsteği (Pull Request) Gönderin:** Değişikliklerinizi ayrıntılı olarak açıklayın ve ilgili sorunlara (issue) bağlantı verin.
 
-## Reporting Issues
+## Sorunları Bildirme
 
-If you find a bug or have a suggestion, please open an issue on GitHub with a clear description and steps to reproduce.
+Bir hata bulursanız veya bir öneriniz varsa, lütfen GitHub üzerinde net bir açıklama ve yeniden oluşturma adımlarıyla birlikte bir sorun (issue) açın.
 
-## Project Vision
+## Proje Vizyonu
 
-Check out the `README.md` for our core vision and mission!
+Temel vizyonumuz ve misyonumuz için `README.md` dosyasına göz atın!
